@@ -1,12 +1,7 @@
-# EnglishDictonary
- English Dictonary
 
-
----
 ### Android English Dictonary
 ---
 ## Using Tech:
-
 * Java
 * Xml
 * SQL
