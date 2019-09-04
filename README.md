@@ -4,7 +4,7 @@
 ## Using Tech:
 * Java
 * Xml
-* SQL
+* SQLite
 ---
 #### Watch Demo : https://www.youtube.com/watch?v=xnUe7yqZKx0&t
 ---
