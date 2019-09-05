@@ -13,7 +13,7 @@
 
 *	User can see list of word suggestions by typing letter
 *	User can see Definition, Synonyms, Antonyms, and sentence using the word
-*	User can listen by voice to click voice icon
+*	User can listen Definition, Synonyms, Antonyms, and sentence by voice to click voice icon
 *	User can see search history & clean history
 *	User can tape any word from other app and share it  in this app to see all
 
