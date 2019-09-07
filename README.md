@@ -1,10 +1,10 @@
 
-### Android Project:- English Dictonary
+### Android Project:- English Dictonary with Java, Xml, SQLite
 ---
 ## Using Tech:
 * Java
 * Xml
-* SQL
+* SQLite
 * Text To Voice System
 ---
 #### Watch Demo : https://www.youtube.com/watch?v=xnUe7yqZKx0&t
